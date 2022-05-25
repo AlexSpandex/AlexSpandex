@@ -1,6 +1,5 @@
 - 👋🏽 Hi, I’m @AlexSpandex
 - 💻 I’m interested in Software developing and a bit of graphic designing
-- 🤖 I use C++ and Swift
 - 👾 I’m looking to collaborate on making projects like games, soical media sites, and apps that could be used on smartphones!
 - 📫 How to reach me: Email - alejandroramosh27@gmail.com
 
