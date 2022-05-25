@@ -1,10 +1,13 @@
-- 👋🏽 Hi, I’m @AlexSpandex
+# Hello world, I’m Alejandro! 👋🏽
+
+---
+## About me 👻
 - 💻 I’m interested in Software developing and a bit of graphic designing
 - 👾 I’m looking to collaborate on making projects like games, soical media sites, and apps that could be used on smartphones!
 - 📫 How to reach me: Email - alejandroramosh27@gmail.com
 
 ---
-# Languages
+## Languages 🔤
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Cpp" alt="Cpp" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="40" height="40"/>&nbsp;
