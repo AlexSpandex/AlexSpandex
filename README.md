@@ -1,6 +1,5 @@
 # Hello world, I’m Alejandro! 👋🏽
 
----
 ## About me 👻
 - 💻 I’m interested in Software developing and a bit of graphic designing
 - 👾 I’m looking to collaborate on making projects like games, soical media sites, and apps that could be used on smartphones!
