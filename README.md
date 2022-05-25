@@ -16,7 +16,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-
+---
 
 ![https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://31.media.tumblr.com/01b870e5dbf53eecf94fbacd170c051b/tumblr_msu2juVCz21rvp5ygo1_500.gif)
 
