@@ -1,7 +1,7 @@
 # Hello world, I’m Alejandro! 👋🏽
 
 ## About me 👻
-- 💻 I’m interested in Software developing and a bit of graphic design
+- 💻 I’m interested in Software development and a bit of graphic design
 - 👾 I’m looking to collaborate on making projects like games, soical media sites, and apps used on smartphones!
 - 📫 How to reach me: Email - alejandroramosh27@gmail.com
 
