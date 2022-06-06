@@ -19,7 +19,7 @@
 
 ---
 <div>
-<img src="https://cdn.discordapp.com/attachments/823715752359624705/983183270856495144/Untitled_06-05-2022_06-10-09.png" title="Git" **alt="Git" width="40" height="40"/>
+<img src="https://cdn.discordapp.com/attachments/823715752359624705/983183270856495144/Untitled_06-05-2022_06-10-09.png" title="Git" **alt="Git" width="80" height="80"/>
 </div>
 <!---
 AlexSpandex/AlexSpandex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
